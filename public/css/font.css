@@ -1,0 +1,35 @@
+@fontface
+{
+
+  font-family: Youth and Beauty - TTF;
+  src: url(fonts/Youth and Beauty - TTF.ttf);
+
+  font-family: Moonlights on the Beach;
+  src: url(fonts/Moonlights on the Beach.ttf);
+
+  font-family: Youth and Beauty - OTF;
+  src: url(fonts/Youth and Beauty - OTF.otf);
+
+  font-family: MagmaWave Caps;
+  src: url(fonts/MagmaWave Caps.otf);
+
+  font-family: velocity-font;
+  src: url(fonts/velocity-font.ttf);
+
+
+}
+
+
+h1, h2
+{
+
+   font-family: MagmaWave Caps;
+
+}
+
+p
+{
+
+   font-family: Moonlights on the Beach;
+
+}
